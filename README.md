@@ -2,7 +2,7 @@
 - 👀 Estoy interesado en los avances tecnologicos. 
 - 🌱 Actualmente ademas de mis estudios universitarios tengo como hobbie diseño de videojuegos, electronica e idiomas. 
 - 💞️ Hago este perfil para mostrar mis trabajos y habilidades. 
-- 📫 Puedes contactarme a traves de mi correo: armasbarraganluisfernando@gmail.com. 
+- 📫 Puedes contactarme a través de mi correo: armasbarraganluisfernando@gmail.com. 
 
 
 
