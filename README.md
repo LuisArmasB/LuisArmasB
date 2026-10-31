@@ -1,4 +1,4 @@
-- 👋  Hola!, Soy Luis Fernando Armas Barragan un Ingeniero en Sistemas Computacionales recien egresado del Instituto Tecnologico Superior de Uruapan.
+- 👋  Hola!, Soy Fer Armas Barragan un Ingeniero en Sistemas Computacionales
 - 👀 Me apasiona el desarrollo tecnológico. 
 - 🌱 Actualmente tengo como hobby el desarrollo de aplicaciones web/android e idiomas. 
 - 💞️ Hago este perfil para mostrar mis trabajos y habilidades. 
